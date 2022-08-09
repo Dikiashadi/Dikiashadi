@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there Iam Diki Ashadi 👋
+### 私の名前はディキ・アシャディです 👋
 <!--
 **Dikiashadi/Dikiashadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
